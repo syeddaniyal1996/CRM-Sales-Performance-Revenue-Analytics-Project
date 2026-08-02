@@ -20,6 +20,12 @@ Laura Thompson generated $2.048M in total deal value, significantly outperformin
 
 ## 🚀 Dashboard Highlights
 
+### 1. Overview
+<img width="1357" height="758" alt="Overview" src="https://github.com/user-attachments/assets/bcab67d8-85cb-4d59-b6c6-638a92efd5ca" />
+
+### 2. Performance
+<img width="1352" height="754" alt="Performance" src="https://github.com/user-attachments/assets/93e27ed5-b036-400f-81d6-0674174cfdef" />
+
 ### 1. High-Level KPI & Pipeline OverviewLeads & Revenue Breakdown: 
 Detailed splits across SaaS, Services, and Custom Solutions.  
 
